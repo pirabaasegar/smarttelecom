@@ -90,6 +90,7 @@ header {
     color: var(--secondary-color);
     width: 8.5rem;
     border-radius: 9999px;
+    font-family: 'Plus Jakarta Sans';
 }
 
 .hero-banner {
@@ -319,4 +320,5 @@ section {
     color: var(--primary-color);
     border: none;
     background-color: #fff;
+    font-family: 'Plus Jakarta Sans';
 }
